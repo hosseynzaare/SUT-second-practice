@@ -1,2 +1,0 @@
-# SUT-second-practice
- 
